@@ -2,6 +2,8 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Navbar from '@/components/Navbar'
 import Hero from '@/components/Hero'
+import Refer from '@/components/Refer'
+import Famfd from '@/components/Famfd'
 
 
 export default function Home() {
@@ -16,6 +18,8 @@ export default function Home() {
       <main className=''>
         <Navbar/>
         <Hero/>
+        <Refer/>
+        <Famfd/>
       </main>
       </>
   )
