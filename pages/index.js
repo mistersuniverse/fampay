@@ -4,7 +4,12 @@ import Navbar from '@/components/Navbar'
 import Hero from '@/components/Hero'
 import Refer from '@/components/Refer'
 import Famfd from '@/components/Famfd'
-
+import Footer from '@/components/Footer'
+import Track from '@/components/Track'
+import Safepay from '@/components/Safepay'
+import Famcard from '@/components/Famcard'
+import Fammaster from '@/components/Fammaster'
+import Famhunt from '@/components/Famhunt'
 
 export default function Home() {
   return (
@@ -20,6 +25,12 @@ export default function Home() {
         <Hero/>
         <Refer/>
         <Famfd/>
+        <Track/>
+        <Safepay/>
+        <Famcard/>
+        <Fammaster/>
+        <Famhunt/>
+        <Footer/>
       </main>
       </>
   )

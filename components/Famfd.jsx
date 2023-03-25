@@ -2,9 +2,9 @@ import React from 'react'
 
 export default function Famfd() {
     return (
-        <section className='px-10 py-32 bg-[#212529] text-white flex'>
+        <section className='px-10 py-32 bg-[#212529] text-white flex items-center'>
             <div className='w-2/5'>
-
+                <img src="/images/refer.png" alt="" />
             </div>
             <div className='w-3/5 font-kanit'>
                 <div className='flex justify-end pr-24'>
@@ -23,10 +23,16 @@ export default function Famfd() {
                                 <img src="/images/verified.png" alt="" className='h-7 mr-5' />
                                 <h2 className='text-3xl'>Get a FD of your Chillars!</h2>
                             </div>
+                            <div className='flex justify-end'>
+                                <div>
+                                    <button className='text-3xl bg-blue-500 rounded-full py-3 px-7 text-center'>Get Fam<span className='text-white font-bold'>FD</span></button>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
+
 
         </section>
     )
