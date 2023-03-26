@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Famcard() {
     return (
-        <section className='px-10 py-32 bg-[#212529] text-white pl-24 flex items-center justify-between'>
+        <section className='px-10 py-32 bg-[#363e47] text-white pl-24 flex items-center justify-between'>
             <div className='w-2/5'>
                 <img src="/images/famcard.png" alt="" />
             </div>

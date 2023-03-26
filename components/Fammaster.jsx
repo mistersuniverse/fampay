@@ -15,7 +15,7 @@ export default function Fammaster() {
           </div>
           <div className='flex items-center'>
             <img src="/images/verified.png" alt="" className='h-7 mr-5' />
-            <h2 className='text-2xl'>Collect Fampay with each and every activity in Fampay</h2>
+            <h2 className='text-2xl'>Collect FamCoins with each and every activity in Fampay</h2>
           </div>
           
           <div className='flex justify-start'>

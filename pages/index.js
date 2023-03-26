@@ -11,6 +11,7 @@ import Famcard from '@/components/Famcard'
 import Fammaster from '@/components/Fammaster'
 import Famhunt from '@/components/Famhunt'
 
+
 export default function Home() {
   return (
     <>
@@ -31,6 +32,7 @@ export default function Home() {
         <Fammaster/>
         <Famhunt/>
         <Footer/>
+    
       </main>
       </>
   )

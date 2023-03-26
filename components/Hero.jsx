@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Hero() {
     return (
-        <section className='bg-black'>
+        <section className='bg-black pt-24'>
             <div className='px-10 pt-28 pb-36 flex font-kanit'>
                 <div className=' space-y-3 w-1/2'>
                     <h1 className='text-5xl font-kanit font-bold text-white'>Personalised UPI and</h1>

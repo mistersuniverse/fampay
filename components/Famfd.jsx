@@ -13,20 +13,26 @@ export default function Famfd() {
                         <div className='space-y-5 pt-5'>
                             <div className='flex items-center'>
                                 <img src="/images/verified.png" alt="" className='h-7 mr-5' />
-                                <h2 className='text-3xl'>Get a FD of your Chillars!</h2>
+                                <h2 className='text-3xl'>Spend Extra, Save Extra with FamChillars</h2>
                             </div>
                             <div className='flex items-center'>
                                 <img src="/images/verified.png" alt="" className='h-7 mr-5' />
-                                <h2 className='text-3xl'>Get a FD of your Chillars!</h2>
+                                <h2 className='text-3xl'>Get a FD by paying in Round-offs of 10</h2>
                             </div>
                             <div className='flex items-center'>
                                 <img src="/images/verified.png" alt="" className='h-7 mr-5' />
-                                <h2 className='text-3xl'>Get a FD of your Chillars!</h2>
+                                <h2 className='text-3xl'>Get credit using personal & group FDs</h2>
                             </div>
                             <div className='flex justify-end'>
                                 <div>
                                     <button className='text-3xl bg-blue-500 rounded-full py-3 px-7 text-center'>Get Fam<span className='text-white font-bold'>FD</span></button>
                                 </div>
+                            </div>
+                        </div>
+                        <div className='grid-cols-3 grid pt-10 gap-5'>
+                            <div className='text-center'>
+                                <h1 className='text-2xl font-bold '>What is FamChillar?</h1>
+                                <p className=''>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem impedit explicabo minus.</p>
                             </div>
                         </div>
                     </div>

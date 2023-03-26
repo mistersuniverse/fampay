@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Navbar() {
   return (
-    <nav className='flex justify-between items-center h-24 bg-black text-white px-10'>
+    <nav className='flex justify-between items-center h-24 bg-black text-white px-10 fixed left-0 right-0'>
         <div className='text-4xl font-bold'><a href="">fampay</a></div>
         <div className=''>
             <ul className='flex space-x-8 text-xl items-center'>
