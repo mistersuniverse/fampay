@@ -27,7 +27,7 @@ export default function Fammaster() {
       </div>
 
       <div className='w-2/5'>
-        <img src="/images/refer.png" alt="" />
+        <img src="/images/04.gif" alt="" className='max-h-[80vh]'/>
       </div>
 
     </section>

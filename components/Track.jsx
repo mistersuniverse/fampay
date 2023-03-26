@@ -31,7 +31,7 @@ export default function Track() {
       </div>
 
       <div className='w-2/5'>
-        <img src="/images/expense.gif" alt="" />
+        <img src="/images/02.gif" alt="" className='max-h-[80vh]'/>
       </div>
 
     </section>

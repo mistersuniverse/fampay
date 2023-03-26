@@ -24,13 +24,13 @@ export default function Home() {
       <main className=''>
         <Navbar/>
         <Hero/>
-        <Refer/>
-        <Famfd/>
         <Track/>
+        <Famfd/>
+        <Famhunt/>
+        <Fammaster/>
+        <Refer/>
         <Safepay/>
         <Famcard/>
-        <Fammaster/>
-        <Famhunt/>
         <Footer/>
     
       </main>

@@ -30,7 +30,7 @@ export default function Famhunt() {
       </div>
 
       <div className='w-2/5'>
-        <img src="/images/refer.png" alt="" />
+        <img src="/images/06.gif" alt="" className='max-h-[80vh]'/>
       </div>
 
     </section>

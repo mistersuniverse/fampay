@@ -8,7 +8,7 @@ export default function Safepay() {
         <div className='flex items-center'>
           <img src="/images/verified.png" alt="" className='h-7 mr-5' />
           <h2 className='text-2xl'>FamPay is powered by Visa and backed by IDFC First Bank</h2>
-        </div>
+        </div> 
         <div className='flex items-center'>
           <img src="/images/verified.png" alt="" className='h-7 mr-5' />
           <h2 className='text-2xl'>All UPI payments are device lock protected</h2>

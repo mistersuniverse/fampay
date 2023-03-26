@@ -3,7 +3,7 @@ import React from 'react'
 export default function Hero() {
     return (
         <section className='bg-black pt-24'>
-            <div className='px-10 pt-28 pb-36 flex font-kanit'>
+            <div className='px-10 pt-28 pb-36 flex font-kanit items-center justify-between'>
                 <div className=' space-y-3 w-1/2'>
                     <h1 className='text-5xl font-kanit font-bold text-white'>Personalised UPI and</h1>
                     <h1 className='text-5xl font-kanit font-bold text-white'>card for</h1>
@@ -13,8 +13,8 @@ export default function Hero() {
                         <button className='py-2 px-7 text-3xl rounded-full border-blue-500 border-[3px] text-white bg-blue-500'>I'm a curious parent</button>
                     </div>
                 </div>
-                <div className=' space-y-3 w-1/2'>
-
+                <div className=' space-y-3 w-1/2 flex justify-end pr-32'>
+                    <img src="/images/07.gif" alt="" className='max-h-[80vh]'/>
                 </div>
             </div>
 
